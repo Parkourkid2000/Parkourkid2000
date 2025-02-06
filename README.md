@@ -7,7 +7,7 @@ Software Developer
 I come from a telecommunications and customer service background, with a proven track record of passion and performance in all that I do.
 
 * 🌍  I'm based in Charlottesville, Virginia USA
-* 🖥️  See my portfolio at [vercel.com](http://anthony-deleon-portfolio.vercel.app)
+* 🖥️  See my portfolio at [anthony-deleon.vercel.app](http://anthony-deleon.vercel.app)
 * ✉️  You can contact me at [deleona144@gmail.com](mailto:deleona144@gmail.com)
 * 🧠  I'm learning Advanced Frontend Frameworks, Best Practices, and Full-Stack Strategies
 * 🤝  I'm open to collaborating on any projects that will further refine and expand my skillset
